@@ -4,4 +4,4 @@ This repository provides a Google Colab notebook and codebase for the EMSv2 (Exp
 
 ## Getting Started with Colab
 
-Open the EMSv2_notebook.ipynb file in Google Colab or Jupyter Notebook.
+Open the ems_usage.ipynb file in Google Colab or Jupyter Notebook.
