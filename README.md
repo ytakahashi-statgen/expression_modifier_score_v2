@@ -4,4 +4,4 @@ This repository provides a Google Colab notebook for EMSv2 (Expression Modifier 
 
 ## Usage
 Examples of EMSv2 calculations can be found in `ems_usage.ipynb`.  
-To use EMSv2 without coding, we also offer access through JOB (Japan Omics Browser), a user-friendly web-based interface, available at [https://japan-omics.jp/](https://japan-omics.jp/).
+To explore the EMSv2 scores without coding, we also offer access through JOB (Japan Omics Browser), a user-friendly web-based interface, available at [https://japan-omics.jp/](https://japan-omics.jp/).
