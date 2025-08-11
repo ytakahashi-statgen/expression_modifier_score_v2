@@ -3,7 +3,7 @@
 This repository provides a Google Colab notebook for EMSv2 (Expression Modifier Score v2), a machine learning model designed to prioritize regulatory variants in the human genome. EMSv2 leverages long-range DNA sequence features and a multi-task learning framework to improve prediction accuracy across various tissues and populations.
 
 ## Usage
-Examples of EMSv2 calculations can be found in `ems_usage.ipynb`.  
+Further usage and training examples are provided in the following Colab notebook: 
 
 ### `ems_usage.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ytakahashi-statgen/expression_modifier_score_v2/blob/main/ems_usage.ipynb).
 
